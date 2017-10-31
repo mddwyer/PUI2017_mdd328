@@ -5,3 +5,5 @@
 #### a. Histogram distribution figure1 does not make difference since the number of bins is just 1. There should be more bins to show distribution better.
 ## 3. Test selecting
 #### The test is selected with reference to the online article (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3116565/) .  According to figure 1 in the article, T- Test is chosen for this hypothesis testing. 
+
+# FBB should be very helpful to original writer. good
