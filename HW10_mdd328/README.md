@@ -1,1 +1,3 @@
+Homework 10 involved conducting time series analyses on a three dimensional array containing information about NYC subway ridership. The first section utilized event detection using an established threshold, while the second section involved finding trends by using rolling means, an AD Fuller test, and finding the ratio of means. The last section involved evaluating annual periodic trends to find which station experiences the most prominent annual peak. 
 
+I worked with Matt on the first section, Dana on the second section, who helped me graph the rolling means and conduct the AD Fuller test, and Sunglyoung on the third section, who helped me understand fourier transformations.
